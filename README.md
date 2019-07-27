@@ -9,11 +9,11 @@ Robot Framework itself is open source software released under Apache License 2.0
 
 # How to install Robot Framework on Mac OS:
 
-1.Install python 3 \
-2.Install PIP \
-3.Install Robot Framework\
-4.Install Selenium library\
-5.Install browser drivers
+  1. Install python 3 \
+  2. Install PIP \
+  3. Install Robot Framework\
+  4. Install Selenium library\
+  5. Install browser drivers
 
 #How to install python 3:
 Download python 3 click here(https://www.python.org/downloads/) and double click on the installer to install and follow the instructions.
